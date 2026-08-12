@@ -1,2 +1,6 @@
 # leetcode-learning-notes
-My Leetcode Learning Notes
+
+### 1. Arrays & Hash Maps
+### 2. Two Pointers
+### 3. DP
+### 4. Greedy
