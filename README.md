@@ -3,6 +3,7 @@
 ### 1. Arrays & Hash Maps
 ### 2. Two Pointers
 - [[Two Pointers]21. Merge Two Sorted Lists](two-pointers/0021-merge-two-sorted-lists.md)
+- [[Two Pointers]26. Remove Duplicates from Sorted Array](two-pointers/0026-remove-duplicates-from-sorted-array.md)
 - [[Two Pointers]27. Remove Element](two-pointers/0027-remove-element.md)
 - [[Two Pointers]88. Merge Sorted Array](two-pointers/0088-merge-sorted-array.md)
 - [[Two Pointers]125. Valid Palindrome](two-pointers/0125-valid-palindrome.md)
