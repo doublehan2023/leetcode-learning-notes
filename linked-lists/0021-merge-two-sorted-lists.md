@@ -1,6 +1,6 @@
 # 21. Merge Two Sorted Lists
 
-- Category: Two Pointers
+- Category: Linked Lists
 - Difficulty: Easy
 - Problem: [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
 
