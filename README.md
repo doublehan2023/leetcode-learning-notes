@@ -1,6 +1,8 @@
 # leetcode-learning-notes
 
 ### 1. Arrays & Hash Maps
+- [[Arrays & Hash Maps]13. Roman to Integer](arrays-and-hashmaps/0013-roman-to-integer.md)
+- [[Arrays & Hash Maps]58. Length of Last Word](arrays-and-hashmaps/0058-length-of-last-word.md)
 - [[Arrays & Hash Maps]169. Majority Element](arrays-and-hashmaps/0169-majority-element.md)
 ### 2. Two Pointers
 - [[Two Pointers]26. Remove Duplicates from Sorted Array](two-pointers/0026-remove-duplicates-from-sorted-array.md)
