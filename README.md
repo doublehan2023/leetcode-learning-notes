@@ -18,4 +18,5 @@
 
 ### 4. DP
 ### 5. Greedy
+- [[Greedy]55. Jump Game](greedy/0055-jump-game.md)
 - [[Greedy]122. Best Time to Buy and Sell Stock II](greedy/0122-best-time-to-buy-and-sell-stock-ii.md)
