@@ -4,6 +4,8 @@
 - [[Arrays & Hash Maps]13. Roman to Integer](arrays-and-hashmaps/0013-roman-to-integer.md)
 - [[Arrays & Hash Maps]58. Length of Last Word](arrays-and-hashmaps/0058-length-of-last-word.md)
 - [[Arrays & Hash Maps]169. Majority Element](arrays-and-hashmaps/0169-majority-element.md)
+- [[Arrays & Hash Maps]274. H-Index — Needs Review](arrays-and-hashmaps/0274-h-index.md)
+- [[Arrays & Hash Maps]380. Insert Delete GetRandom O(1)](arrays-and-hashmaps/0380-insert-delete-getrandom-o1.md)
 ### 2. Two Pointers
 - [[Two Pointers]26. Remove Duplicates from Sorted Array](two-pointers/0026-remove-duplicates-from-sorted-array.md)
 - [[Two Pointers]27. Remove Element](two-pointers/0027-remove-element.md)
