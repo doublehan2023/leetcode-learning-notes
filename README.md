@@ -1,6 +1,7 @@
 # leetcode-learning-notes
 
 ### 1. Arrays & Hash Maps
+- [[Arrays & Hash Maps]1. Two Sum](arrays-and-hashmaps/0001-two-sum.md)
 - [[Arrays & Hash Maps]13. Roman to Integer](arrays-and-hashmaps/0013-roman-to-integer.md)
 - [[Arrays & Hash Maps]14. Longest Common Prefix](arrays-and-hashmaps/0014-longest-common-prefix.md)
 - [[Arrays & Hash Maps]28. Find the Index of the First Occurrence in a String](arrays-and-hashmaps/0028-find-the-index-of-the-first-occurrence-in-a-string.md)
