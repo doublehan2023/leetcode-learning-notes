@@ -10,6 +10,7 @@
 - [[Arrays & Hash Maps]202. Happy Number](arrays-and-hashmaps/0202-happy-number.md)
 - [[Arrays & Hash Maps]274. H-Index — Needs Review](arrays-and-hashmaps/0274-h-index.md)
 - [[Arrays & Hash Maps]380. Insert Delete GetRandom O(1)](arrays-and-hashmaps/0380-insert-delete-getrandom-o1.md)
+- [[Arrays & Hash Maps]383. Ransom Note](arrays-and-hashmaps/0383-ransom-note.md)
 ### 2. Two Pointers
 - [[Two Pointers]26. Remove Duplicates from Sorted Array](two-pointers/0026-remove-duplicates-from-sorted-array.md)
 - [[Two Pointers]27. Remove Element](two-pointers/0027-remove-element.md)
